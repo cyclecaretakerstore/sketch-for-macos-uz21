@@ -1,4 +1,4 @@
-
+Enhance Sketch for macOS with vip Sketch for macOS Panel | 3D rendering + export to SVG, the #1 panel. Includes 3D rendering and export to SVG for a smoother and more creative
 
 
 
